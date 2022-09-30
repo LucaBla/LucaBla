@@ -9,7 +9,7 @@
 
 - 📖 Currently learning **Ruby, Rails and other Webdev topics**
 
-- 👨‍💻 Take a look at my portfolio [missing](missing)
+- 👨‍💻 Take a look at my portfolio [missing](in work)
 
 - 📫 Want to reach me **me@lucablazevic.dev**
 
