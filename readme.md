@@ -11,7 +11,7 @@
 
 - 👨‍💻 Take a look at my portfolio [missing](missing)
 
-- 📫 Want to reach me **lucablazevic@yahoo.de**
+- 📫 Want to reach me **me@lucablazevic.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
