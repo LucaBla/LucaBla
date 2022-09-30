@@ -7,7 +7,7 @@
 
 - 👨‍💻 Working on **The Odin Project**
 
-- 📖 Currently learning **Ruby, Rails and other Webdev topics**
+- 📖 Currently learning **Ruby, Rails, JS and other Webdev topics**
 
 - 👨‍💻 Take a look at my portfolio [in work](missing)
 
