@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucabla" alt="lucabla" /></a> </p>
 
-- 👨‍💻 Working on **The Odin Project**
+- 👨‍💻 Working on **RogueDinner**
 
-- 📖 Currently learning **Ruby, Rails, JS and other Webdev topics**
-
-- 👨‍💻 Take a look at my portfolio [in work](missing)
+<!---- 👨‍💻 Take a look at my portfolio [in work](missing) -->
 
 - 📫 Want to reach me **me@lucablazevic.dev**
 
